@@ -1,0 +1,7 @@
+{
+  "name": "JobCollector AI",
+  "description": "An intelligent recruitment information extractor that uses Gemini AI to parse job details from corporate websites via text or screenshots, helping job seekers manage their applications efficiently.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
